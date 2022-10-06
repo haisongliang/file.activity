@@ -1,8 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name       "file.activity">
-<!ENTITY author     "dlandon">
-<!ENTITY version    "2022.08.19">
+<!ENTITY author     "haisongliang">
+<!ENTITY version    "2022.10.06">
 <!ENTITY launch		"Tools/FileActivity">
 <!ENTITY gitURL		"https://raw.githubusercontent.com/&author;/&name;/master">
 <!ENTITY pluginURL	"&gitURL;/&name;.plg">
